@@ -1,12 +1,11 @@
 <h1 align="center">Hey 👋, I'm api / xrkzl </h1>
 <h3 align="center">I'm a discord bot developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=api-was-taken&label=Profile%20views&color=0e75b6&style=flat" alt="asmodeus-was-taken" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=apilol&label=Profile%20views&color=0e75b6&style=flat" alt="asmodeus-was-taken" /> </p>
 </br>
 <h1 align="center">Github Statistics </h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=api-was-taken" alt="asmodeus-was-taken" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apilol" alt="asmodeus-was-taken" /></a> </p>
 <p align = "left">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=api-was-taken&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Api-was-taken" width = "60%"/>
-<!--<img src="https://github-profile-trophy.vercel.app/?username=Fnoberz&theme=onedadarkrk&no-frame=true&no-bg=true" alt = "Fnoberz" height = 150/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=apilol&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Api-was-taken" width = "60%"/>
 </p>
 </br>
 <h1 align="center">Contact Me </h1>
