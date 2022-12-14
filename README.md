@@ -11,9 +11,9 @@
 <h1 align="center">Contact Me </h1>
 <p align="left" border-radius="10px">
   <a href="https://e-z.bio/api" target="_blank"><img src="https://s3.us-east-1.wasabisys.com/e-zimagehosting/eztransparent.png" height="30" width="30" alt="e-z"/> </a>
-  <a href="https://discord.com/users/755155481458114630" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" alt="discord"/> </a>
+  <a href="https://discord.com/users/755155481458114630/profile" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" alt="discord"/> </a>
 </p>
-    <a href="https://discord.com/users/755155481458114630">
+    <a href="https://discord.com/users/755155481458114630/profile">
         <img title="Discord" alt="discord" src="https://discord.c99.nl/widget/theme-4/755155481458114630.png"/>
 
 </br>
