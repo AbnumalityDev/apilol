@@ -15,6 +15,7 @@
 </p>
     <a href="https://discord.com/users/755155481458114630/profile">
         <img title="Discord" alt="discord" src="https://discord.c99.nl/widget/theme-4/755155481458114630.png"/>
+<a href="https://discord.com/users/755155481458114630"><img src="https://lanyard-profile-readme.vercel.app/api/755155481458114630" width=45%></a>
 
 </br>
 <h1 align="center">Tools </h1>
