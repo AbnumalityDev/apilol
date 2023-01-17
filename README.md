@@ -13,8 +13,6 @@
   <a href="https://e-z.bio/api" target="_blank"><img src="https://s3.us-east-1.wasabisys.com/e-zimagehosting/eztransparent.png" height="30" width="30" alt="e-z"/> </a>
   <a href="https://discord.com/users/755155481458114630/profile" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" alt="discord"/> </a>
 </p>
-    <a href="https://discord.com/users/755155481458114630/profile">
-        <img title="Discord" alt="discord" src="https://discord.c99.nl/widget/theme-4/755155481458114630.png"/>
 <a href="https://discord.com/users/755155481458114630"><img src="https://lanyard-profile-readme.vercel.app/api/755155481458114630" width=45%></a>
 
 </br>
